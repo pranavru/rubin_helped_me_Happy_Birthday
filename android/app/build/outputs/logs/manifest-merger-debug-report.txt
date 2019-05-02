@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\a2487607f98a58d98fe036940f1ed30f\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ce6e6337fd15d00034c4f59e4e8702a4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\32965a24f0d380b2f9831da89f357a96\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2c2c585a79cb84b7e6cea7ac4060aa9e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\68ea6d286e4eea548a07c89b35755951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9723f82b51295c624ac1c70e4a161385\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\040d65a0b31cd1c4d51a89b7752386e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b2bbeda1192db09699719adf06cf8a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\df5ac25e9cbd68a449393f6e6d96978d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77be8f7a71321e80d03f8ff9e96e3628\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d996c79ab915466e87d23e10b008e38f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53b30ab04efc022f3c381c8d02e5e7c1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8e42b52c7bdc9e61a74581f534e5b2c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34de02792fb674443e1ab26b9461e8eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1cc418bf2d9c6845996def2ec2a5f3b1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e238241339e39a591bfad0ec8cc993c2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8a67c33b1f161b70ad2a9bbc10243636\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60e819234a8e3b3a8a3bfe968c1b9aec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d41cf17afcfec22835f99c3b5c4e181\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16e1e3c971ae6872d6092d1a82dac299\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b85aafa45cfbe2a941692551bfc530d5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02b14f022ae31a24c1753481ddd971f0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\80ae63d3d6b05f31b27eee2ba347d2a8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4b30de513f1157b95151091a0e325260\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5a2bd2b76352d9f98ab87a4fe0a9b881\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\106caadc8fffe606eb2eec5f35ff2e90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\56af88054c7f03c3c5e1b271b4f21f7b\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\039ac7ae71a3e5354cfe5ccd1050b5c4\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\071ebcb505352b455861161708333103\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\36853e4bc94747fcf281794618128f90\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4a94c8048d3a588a6d07fefc6f7167f8\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\7d6e5f9c3408f7f3e48a39d0afedc31e\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f440a5a4ed48877685251a8f600b5f20\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:2:3-32
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\a2487607f98a58d98fe036940f1ed30f\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\a2487607f98a58d98fe036940f1ed30f\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e238241339e39a591bfad0ec8cc993c2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e238241339e39a591bfad0ec8cc993c2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\7d6e5f9c3408f7f3e48a39d0afedc31e\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\7d6e5f9c3408f7f3e48a39d0afedc31e\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:8:7-39
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:10:7-52
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:9:7-41
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:7:7-38
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:7:7-38
+activity#com.awesome_project.MainActivity
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\a2487607f98a58d98fe036940f1ed30f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.59.5] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\react-native-0.59.5.aar\a2487607f98a58d98fe036940f1ed30f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ce6e6337fd15d00034c4f59e4e8702a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\ce6e6337fd15d00034c4f59e4e8702a4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\32965a24f0d380b2f9831da89f357a96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\32965a24f0d380b2f9831da89f357a96\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2c2c585a79cb84b7e6cea7ac4060aa9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\2c2c585a79cb84b7e6cea7ac4060aa9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\68ea6d286e4eea548a07c89b35755951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\68ea6d286e4eea548a07c89b35755951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9723f82b51295c624ac1c70e4a161385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\9723f82b51295c624ac1c70e4a161385\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\040d65a0b31cd1c4d51a89b7752386e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\040d65a0b31cd1c4d51a89b7752386e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b2bbeda1192db09699719adf06cf8a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\3b2bbeda1192db09699719adf06cf8a7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\df5ac25e9cbd68a449393f6e6d96978d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\df5ac25e9cbd68a449393f6e6d96978d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77be8f7a71321e80d03f8ff9e96e3628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\77be8f7a71321e80d03f8ff9e96e3628\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d996c79ab915466e87d23e10b008e38f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\d996c79ab915466e87d23e10b008e38f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53b30ab04efc022f3c381c8d02e5e7c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\53b30ab04efc022f3c381c8d02e5e7c1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8e42b52c7bdc9e61a74581f534e5b2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\8e42b52c7bdc9e61a74581f534e5b2c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34de02792fb674443e1ab26b9461e8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\34de02792fb674443e1ab26b9461e8eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1cc418bf2d9c6845996def2ec2a5f3b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1cc418bf2d9c6845996def2ec2a5f3b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\f4370159af155946d8eaa1591b22106a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e238241339e39a591bfad0ec8cc993c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e238241339e39a591bfad0ec8cc993c2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8a67c33b1f161b70ad2a9bbc10243636\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\8a67c33b1f161b70ad2a9bbc10243636\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60e819234a8e3b3a8a3bfe968c1b9aec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60e819234a8e3b3a8a3bfe968c1b9aec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d41cf17afcfec22835f99c3b5c4e181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\6d41cf17afcfec22835f99c3b5c4e181\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16e1e3c971ae6872d6092d1a82dac299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16e1e3c971ae6872d6092d1a82dac299\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b85aafa45cfbe2a941692551bfc530d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b85aafa45cfbe2a941692551bfc530d5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02b14f022ae31a24c1753481ddd971f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\02b14f022ae31a24c1753481ddd971f0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\80ae63d3d6b05f31b27eee2ba347d2a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\80ae63d3d6b05f31b27eee2ba347d2a8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4b30de513f1157b95151091a0e325260\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4b30de513f1157b95151091a0e325260\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5a2bd2b76352d9f98ab87a4fe0a9b881\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\5a2bd2b76352d9f98ab87a4fe0a9b881\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\106caadc8fffe606eb2eec5f35ff2e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\106caadc8fffe606eb2eec5f35ff2e90\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\56af88054c7f03c3c5e1b271b4f21f7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\56af88054c7f03c3c5e1b271b4f21f7b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\039ac7ae71a3e5354cfe5ccd1050b5c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\039ac7ae71a3e5354cfe5ccd1050b5c4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\071ebcb505352b455861161708333103\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\071ebcb505352b455861161708333103\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\36853e4bc94747fcf281794618128f90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\36853e4bc94747fcf281794618128f90\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4a94c8048d3a588a6d07fefc6f7167f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\4a94c8048d3a588a6d07fefc6f7167f8\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\7d6e5f9c3408f7f3e48a39d0afedc31e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\soloader-0.6.0.aar\7d6e5f9c3408f7f3e48a39d0afedc31e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f440a5a4ed48877685251a8f600b5f20\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\icekube\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\f440a5a4ed48877685251a8f600b5f20\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from C:\Users\icekube\Desktop\React-Natve\aer_mdeia\Awesome_PRoject\android\app\src\debug\AndroidManifest.xml:5:22-75
